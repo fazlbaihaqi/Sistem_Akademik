@@ -8,6 +8,9 @@ Password : admin
 
 ![ss1](https://user-images.githubusercontent.com/60926608/96350970-c218f180-10e2-11eb-890b-328c1c15decc.png)
 
+![ss2](https://user-images.githubusercontent.com/60926608/96351070-4bc8bf00-10e3-11eb-9d5a-a95708c65058.png)
+
+
 
 Spesifikasi pada Aplikasi Sistem Informasi Akademik ini yaitu :
 – Website Full Responsive
